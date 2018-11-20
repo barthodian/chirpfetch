@@ -1,0 +1,19 @@
+{
+  "name": "chirpfetch",
+  "version": "1.0.0",
+  "description": "Chirpfetch is a tweet fetching app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barthodian/chirpfetch.git"
+  },
+  "author": "Barthodian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barthodian/chirpfetch/issues"
+  },
+  "homepage": "https://github.com/barthodian/chirpfetch#readme"
+}
