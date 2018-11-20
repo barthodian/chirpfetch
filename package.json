@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/barthodian/chirpfetch/issues"
   },
-  "homepage": "https://github.com/barthodian/chirpfetch#readme"
+  "homepage": "https://github.com/barthodian/chirpfetch#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
 }
