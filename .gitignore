@@ -61,4 +61,4 @@ typings/
 .next
 
 #  authentication keys
-keys
+keys.json
